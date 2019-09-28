@@ -8,7 +8,7 @@ Twitch 自從去年改用 React 重寫之後，網站的主要排版單位都變
 
 中文 Chrome 使用者看長這樣
 
-![大一號]]]](./assets/borken.jpg "大一號")
+![大一號](./assets/borken.jpg "大一號")
 
 
 安裝這個擴充功能可以簡單修正這個問題，還給你一個正常排版的 Twitch。
