@@ -19,7 +19,7 @@ Twitch 自從去年改用 React 重寫之後，網站的主要排版單位都變
 
 **Chrome Web Store**
 
-待上傳
+https://chrome.google.com/webstore/detail/twitch-rem-fix/nbgompppmhbnpkflbkapbeajmedpbgfm
 
 
 ## 開發
