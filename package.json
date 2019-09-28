@@ -1,0 +1,29 @@
+{
+  "name": "twitch-rem-fix",
+  "version": "1.0.0",
+  "description": "Fix Twitch rem layout for Chinese Chrome users",
+  "main": "contentscript.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pc035860/twitch-rem-fix.git"
+  },
+  "keywords": [
+    "extension",
+    "twitch",
+    "rem"
+  ],
+  "author": "pc035860 <pc035860@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pc035860/twitch-rem-fix/issues"
+  },
+  "homepage": "https://github.com/pc035860/twitch-rem-fix",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^3.9.1"
+  }
+}
