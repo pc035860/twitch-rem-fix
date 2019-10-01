@@ -17,9 +17,21 @@ Twitch 自從去年改用 React 重寫之後，網站的主要排版單位都變
 
 ## 安裝
 
+安裝完擴充功能之後，還要修改瀏覽器的字型設定才能夠讓它起作用。
+
 **Chrome Web Store**
 
 https://chrome.google.com/webstore/detail/twitch-rem-fix/nbgompppmhbnpkflbkapbeajmedpbgfm
+
+
+### 更改瀏覽器設定
+
+1. 進入「設定」，點入「外貌」分類下的「自訂字型」
+2. 將最小字型大小拉到 “10” 以下
+
+![step 1](./assets/settings_step1.jpg)
+
+![step 2](./assets/settings_step2.jpg)
 
 
 ## 開發
